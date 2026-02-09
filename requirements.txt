@@ -1,5 +1,6 @@
-streamlit==1.31.0
-qrcode==7.4.2
-pillow==10.2.0
-pandas==2.2.0
-easyocr==1.7.0
+streamlit>=1.31.0
+qrcode>=7.4.2
+pillow>=10.3.0
+pandas>=2.0.0
+easyocr>=1.7.0
+numpy<2.0.0
