@@ -1,2 +1,2 @@
 # Medicine_dispenser
-This is for my IFP - Automatig drug dispenser
+This is for my IFP - Automatic drug dispenser
