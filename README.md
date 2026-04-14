@@ -23,4 +23,4 @@ streamlit run medicine_app.py
 ```
 
 ## Live Demo
-[Add your Streamlit Cloud link here]
+[Open webapp](https://medicinedispenser.streamlit.app/)
